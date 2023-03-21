@@ -45,8 +45,8 @@
   <!-- <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a> -->
 </p>
 
- <P align="center"
+ <!-- <P align="center"
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidreza4dev&show_icons=true&theme=bear)
 
- </P>
+ </P> -->
